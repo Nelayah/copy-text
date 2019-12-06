@@ -1,6 +1,6 @@
 {
   "name": "copy-text-pjs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Modify Copy Text",
   "main": "lib/index.js",
   "scripts": {
