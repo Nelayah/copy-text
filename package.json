@@ -1,5 +1,5 @@
 {
-  "name": "copy-text",
+  "name": "copy-text-pjs",
   "version": "0.0.1",
   "description": "Modify Copy Text",
   "main": "lib/index.js",
